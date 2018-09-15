@@ -1,0 +1,6 @@
+books/
+class_examples/
+*.npy
+*.pyc
+proj1/data/
+proj1/data_gen/
